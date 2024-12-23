@@ -56,4 +56,4 @@ spec=(name, domain, body, std)
 
 
 > É para onde o `futils` vai.
-> [ximenesyuri/safe](https://github.com/ximenesyuri/safe)
+> [f-utils/f](https://github.com/f-utils/f)
